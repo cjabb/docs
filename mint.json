@@ -15,6 +15,10 @@
     {
       "name": "Documentation",
       "url": "https://mintlify.com/docs"
+    },
+        {
+      "name": "Socials",
+      "url": "https://feds.lol/drippy"
     }
   ],
   "topbarCtaButton": {
